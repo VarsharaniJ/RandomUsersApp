@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="search_users">Search users</string>
+    <string name="submit">Submit</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="user_details">User Details</string>
+    <string name="back">Back</string>
+    <string name="please_enter_a_valid_number">Please enter a valid number</string>
+    <string name="please_enter_a_number_of_users">Please enter a number of users</string>
+    <string name="enter_number_of_users">Enter number of users</string>
+</resources>
